@@ -4,7 +4,8 @@ Convert between PEM and RSA XML Params
 # Pre requisites
 
 .NET 5
-Install from https://dotnet.microsoft.com/download
+
+Install from https://dotnet.microsoft.com/download (either Linux or Windows)
 
 ```
 dotnet build
